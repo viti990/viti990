@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viti990
-- 👀 I’m interested in Data Sciene/Analytics/Engineering with Python and R and Software Development, Front/Back and Fullstack with React and Node.js HTML, CSS...
-- 🌱 I’m currently learning Data Science in an MBA and with Coursera on the Google Data Analytics Certificate.
+- 👀 I’m interested in Data Sciene/Analytics/Engineering with Python and R and Software Development, and Quantitative Financial Engineering...
+- 🌱 I have work experience in asset management where I worked at a macro/fixed income hedge fund and at the aeronautical sector as a Product Development Engineer at a manufacturer.
 - 💞️ I’m looking to collaborate on everything I can, I love to learn new skills.
 - 📫 How to reach me viti990@hotmail.com or victoracavalli@gmail.com
 
